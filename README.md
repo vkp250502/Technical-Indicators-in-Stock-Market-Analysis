@@ -1,3 +1,13 @@
+
+
+
+
+![images](https://github.com/user-attachments/assets/d6c8ace3-3670-452b-918b-13ba840776b9)
+
+
+
+
+
 # 📈 Stock Market Analysis with Technical Indicators (SMA, EMA, ADX, Supertrend)
 
 This project demonstrates how to apply key **technical indicators** used in stock trading and financial analysis using **Python**, **yFinance**, and **Matplotlib**.
